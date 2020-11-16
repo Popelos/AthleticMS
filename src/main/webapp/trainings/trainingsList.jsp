@@ -33,8 +33,8 @@
                         <td>${t.id}</td>
                         <td>${t.trainingDate}</td>
                         <td>${t.attended}</td>
-                        <td>${t.aid}</td>
-                        <td>${t.sid}</td>
+                        <td>${t.aid.name}</td>
+                        <td>${t.sid.location}</td>
                         <td>
                             <a href="product/editProduct?id=${a.id}">Edit</a>
                         </td>
