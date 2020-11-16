@@ -6,7 +6,7 @@ import javax.persistence.metamodel.StaticMetamodel;
 import popelos.entity.Athlete;
 import popelos.entity.Games;
 
-@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2020-10-21T17:36:54")
+@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2020-11-13T12:28:50")
 @StaticMetamodel(Performances.class)
 public class Performances_ { 
 

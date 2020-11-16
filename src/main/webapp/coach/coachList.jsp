@@ -33,7 +33,7 @@
                     <td>${co.name}</td>
                     <td>${co.salary}</td>
                     <td>${co.startDate}</td>
-                    <td>${co.tid}</td>
+                    <td>${co.tid.sport}</td>
                     <td>
                         <a href="product/editProduct?id=${a.id}">Edit</a>
                     </td>

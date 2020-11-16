@@ -36,7 +36,7 @@
                         <td>${a.height}</td>
                         <td>${a.weight}</td>
                         <td>${a.dateOfBirth}</td>
-                        <td>${a.tid}</td>
+                        <td>${a.tid.sport}</td>
                         <td>
                             <a href="product/editProduct?id=${a.id}">Edit</a>
                         </td>

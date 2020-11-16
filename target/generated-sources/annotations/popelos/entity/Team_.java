@@ -8,7 +8,7 @@ import popelos.entity.Athlete;
 import popelos.entity.Coach;
 import popelos.entity.Games;
 
-@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2020-10-21T17:36:54")
+@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2020-11-13T12:28:50")
 @StaticMetamodel(Team.class)
 public class Team_ { 
 

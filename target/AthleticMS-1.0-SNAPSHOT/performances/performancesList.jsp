@@ -30,8 +30,8 @@
                     <tr>
                         <td>${p.id}</td>
                         <td>${p.performance}</td>
-                        <td>${p.aid}</td>
-                        <td>${p.gid}</td>
+                        <td>${p.aid.name}</td>
+                        <td>${p.gid.gameDate}</td>
                         <td>
                             <a href="product/editProduct?id=${a.id}">Edit</a>
                         </td>

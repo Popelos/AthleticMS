@@ -32,8 +32,8 @@
                         <td>${g.id}</td>
                         <td>${g.gameDate}</td>
                         <td>${g.result}</td>
-                        <td>${g.sid}</td>
-                        <td>${g.tid}</td>
+                        <td>${g.sid.location}</td>
+                        <td>${g.tid.sport}</td>
                         <td>
                             <a href="product/editProduct?id=${a.id}">Edit</a>
                         </td>
